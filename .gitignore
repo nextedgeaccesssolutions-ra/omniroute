@@ -74,6 +74,7 @@ docs/*
 !docs/CODEBASE_DOCUMENTATION.md
 !docs/CONTRIBUTING.md
 !docs/USER_GUIDE.md
+!docs/openrouter-setup.md
 !docs/API_REFERENCE.md
 !docs/TROUBLESHOOTING.md
 !docs/EXECUTION_CONTEXT_PROVIDER_SYNC.md
